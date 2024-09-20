@@ -89,13 +89,13 @@ With a strong foundation in computer science, I am passionate about pushing the 
 
 
 
-![Shreya-2022 Stats](https://github-readme-stats.vercel.app/api?username=Gsubrat&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+![Shreya-2022 Stats](https://github-readme-stats.vercel.app/api?username=Shreya-2022&theme=transparent&show_icons=true&hide_border=false&count_private=true)
 
 
 <hr>
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=transparent&count_private=true)](https://git.io/streak-stats)-->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gsubrat&theme=transparent&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shreya-2022&theme=transparent&count_private=true)](https://git.io/streak-stats)
 
 
 <hr>
@@ -108,7 +108,7 @@ With a strong foundation in computer science, I am passionate about pushing the 
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)-->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Shreya_298?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Shreya_2025?ext=activity)
 
 
 <hr>
